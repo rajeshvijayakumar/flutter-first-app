@@ -1,0 +1,4 @@
+#Sat Mar 06 02:58:05 IST 2021
+base.0=/home/rpnerini/Desktop/flutter-apps/flutter-first-app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
